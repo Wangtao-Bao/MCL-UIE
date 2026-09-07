@@ -50,7 +50,7 @@ MCL-UIE/
 
 ### Visualization Results
 
-![outline](Figs/image1.png)
+![outline](Figs/image.png)
 
 
 ### Quantitative Results
